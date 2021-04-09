@@ -2,7 +2,7 @@ import random
 from datetime import date
 import os
 
-database = {0:{'fName':'joe', 'lName':'james','email':'joe@james.com', 'password':'123','balance':100}}
+database = {0: {'fName': 'joe', 'lName': 'james', 'email': 'joe.james@yahoo.com', 'password': '123', 'balance': 100}}
 currentUser = ""
 currentAccountNo = 0
 
